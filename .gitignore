@@ -6,6 +6,7 @@ esusu-contract/Cargo.lock
 node_modules/
 backend/node_modules/
 frontend/node_modules/
+backend/dist/
 frontend/.next/
 
 # Env files
